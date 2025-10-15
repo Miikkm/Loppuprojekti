@@ -1,0 +1,7 @@
+# site configuration
+
+theme: minima
+title: "Loppuprojekti"
+description: "Ohjelmistokehittämisen perusteet loppuprojekti"
+baseurl: "/Loppuprojekti" # the subpath of your site, e.g. /blog
+url: "https://miikkm.github.io/Loppuprojekti/#-web-teht%C3%A4v%C3%A4" # the base hostname & protocol for your site

@@ -1,6 +1,6 @@
 # site configuration
 
-theme: minima
+theme: jekyll-theme-minimal
 title: "Loppuprojekti"
 description: "Ohjelmistokehittämisen perusteet loppuprojekti"
 baseurl: "/Loppuprojekti" # the subpath of your site, e.g. /blog
